@@ -1,5 +1,4 @@
 dist: jammy
 vm:
  size: gpu-xlarge
-
 script: echo "Test..." 
