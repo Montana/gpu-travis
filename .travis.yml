@@ -1,0 +1,5 @@
+dist: jammy
+vm:
+ size: [gpu-medium | gpu-xlarge]
+
+script: echo "Test..." 
