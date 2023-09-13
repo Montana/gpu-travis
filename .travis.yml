@@ -1,4 +1,4 @@
-dist: jammy
+dist: focal
 vm:
  size: gpu-xlarge
 script: echo "Test..." 
