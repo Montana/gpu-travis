@@ -1,4 +1,4 @@
 dist: focal
 vm:
- size: gpu-xlarge
+ size: gpu-medium
 script: echo "Test..." 
