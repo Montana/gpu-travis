@@ -1,4 +1,7 @@
 dist: focal
 vm:
  size: gpu-medium
-script: echo "Test..." 
+script: 
+  - free -hm 
+  - nproc 
+install: skip 
