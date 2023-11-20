@@ -1,6 +1,6 @@
 dist: focal
 vm:
- size: gpu-xlarge
+ size: gpu-medium
 script: 
   - free -hm 
   - nproc 
