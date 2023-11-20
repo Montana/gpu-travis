@@ -3,5 +3,6 @@ vm:
  size: gpu-xlarge
 script: 
   - free -hm 
+  - grep MemTotal /proc/meminfo
   - nproc 
 install: skip 
