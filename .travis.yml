@@ -1,7 +1,7 @@
 dist: focal
 language: shell
 vm:
- size: gpu-xlarge
+ size: gpu-medium
 script: 
   - free -hm 
   - nproc 
